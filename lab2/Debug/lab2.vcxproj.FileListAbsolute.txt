@@ -1,2 +1,0 @@
-D:\логика\lab2\Debug\lab2.exe
-D:\логика\lab2\Debug\lab2.pdb
